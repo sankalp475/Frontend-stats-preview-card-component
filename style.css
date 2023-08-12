@@ -53,8 +53,7 @@ div.card-content-box div.upper-flex {
 	gap: 26px;
 }
 div.card-content-box div.upper-flex h1 {
-	font-family: var(--Font-Inter);
-	font-weight: var(--Inter-700);
+	font-family: var(--Font_Lexend);
 	color: var(--White);
 	font-size: 41px;
 }
