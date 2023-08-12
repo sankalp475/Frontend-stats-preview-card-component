@@ -56,7 +56,7 @@ div.card-content-box div.upper-flex h1 {
 	font-family: var(--Font-Inter);
 	font-weight: var(--Inter-700);
 	color: var(--White);
-	font-size: 31px;
+	font-size: 41px;
 }
 div.card-content-box div.upper-flex h1 > span {
 	color: var(--SoftViolet);
@@ -64,25 +64,27 @@ div.card-content-box div.upper-flex h1 > span {
 div.card-content-box div.upper-flex p {
 	color: var(--SlightlyWhite_C1);
 	font-family: var(--Font_Lexend);
-	font-size: 12px;
+	font-size: 16px;
+	line-height: 23px;
 }
 
 div.card-content-box div.lower-flex {
 	display: flex;
 	justify-content: space-between;
+	margin-right: 37px;
 }
 div.card-content-box div.lower-flex h4 {
 	display: flex;
 	flex-direction: column;
 	font-family: var(--Font-Inter);
-	font-size: 1.1rem;
+	font-size: 20px;
 	text-transform: uppercase;
-	line-height: 1.55rem;
+	line-height: 24.8px;
 }
 div.card-content-box div.lower-flex > h4 > span {
 	text-transform: uppercase;
 	font-weight: var(--Lexend-400);
-	font-size: 11px;
+	font-size: 12px;
 	color: var(--SlightlyWhite_C1);
 }
 
